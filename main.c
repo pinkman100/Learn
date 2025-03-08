@@ -7,5 +7,6 @@ int  main()
 	printf("How are you...\n");
 	printf("Have a nic day...\n");
 	printf("How is the josh...\n");
+	printf("You are nice...\n");
 	return 0;
 }

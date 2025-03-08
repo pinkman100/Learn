@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-void sample(void);
+void sampl(void);
 
 int  main()
 {
@@ -12,12 +12,12 @@ int  main()
 	printf("Have a nic day...\n");
 	printf("How is the josh...\n");
 	printf("You are nice...\n");
-	sample();
+	sampl();
 	return 0;
 }
 
 
-void sample(void)
+void sampl(void)
 {
 	printf("sample fun from new...\n");
 }
